@@ -1,11 +1,12 @@
-# Esse é o readme do vitor! que foi feito com base ao sedido em aula!
+## Projeto Home do Instagram 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+            width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+            width="40" height="40"/> 
 
+Neste projeto podemos:
 
-Esse é o repositório feito em uma aula de Flexbox, na qual fiz a interface de login do Instagram! 
+💬 Trabalhar com HTML
 
-### Os requisitos são:
+💬 Trabalhar com CSS
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
+💬 Trabalhar com imagens
